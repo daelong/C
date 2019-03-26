@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19강 동적메모리", "19강 동적메모리\19강 동적메모리.vcxproj", "{4B1A1687-4D25-4A9B-83E4-659CD32912FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B1A1687-4D25-4A9B-83E4-659CD32912FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4B1A1687-4D25-4A9B-83E4-659CD32912FB}.Debug|Win32.Build.0 = Debug|Win32
+		{4B1A1687-4D25-4A9B-83E4-659CD32912FB}.Release|Win32.ActiveCfg = Release|Win32
+		{4B1A1687-4D25-4A9B-83E4-659CD32912FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

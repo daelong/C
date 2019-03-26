@@ -1,0 +1,14 @@
+﻿빌드 시작: 2018-09-30 오후 8:17:48
+     1>2 노드의 "c:\Users\82109\documents\visual studio 2010\Projects\유클리드 알고리즘\유클리드 알고리즘\유클리드 알고리즘.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\유클리드 알고리즘.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "유클리드.cpp"
+         유클리드.cpp
+     1>c:\users\82109\documents\visual studio 2010\projects\유클리드 알고리즘\유클리드 알고리즘\유클리드.cpp(8): error C2082: 'n' 정식 매개 변수 재정의
+     1>c:\users\82109\documents\visual studio 2010\projects\유클리드 알고리즘\유클리드 알고리즘\유클리드.cpp(10): error C2062: 예기치 않은 'double' 형식입니다.
+     1>"c:\Users\82109\documents\visual studio 2010\Projects\유클리드 알고리즘\유클리드 알고리즘\유클리드 알고리즘.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.43

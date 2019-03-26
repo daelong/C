@@ -1,0 +1,16 @@
+﻿빌드 시작: 2018-07-28 오후 1:47:07
+     1>2 노드의 "c:\Users\82109\documents\visual studio 2010\Projects\p116\p116\p116.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\p116.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt p116.cpp
+         p116.cpp
+     1>c:\users\82109\documents\visual studio 2010\projects\p116\p116\p116.cpp(8): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+     1>c:\users\82109\documents\visual studio 2010\projects\p116\p116\p116.cpp(9): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+     1>c:\users\82109\documents\visual studio 2010\projects\p116\p116\p116.cpp(10): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+     1>c:\users\82109\documents\visual studio 2010\projects\p116\p116\p116.cpp(11): error C3861: 'printf': 식별자를 찾을 수 없습니다.
+     1>"c:\Users\82109\documents\visual studio 2010\Projects\p116\p116\p116.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.17

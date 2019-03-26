@@ -1,0 +1,18 @@
+﻿빌드 시작: 2018-07-30 오후 12:08:13
+     1>2 노드의 "c:\Users\82109\documents\visual studio 2010\Projects\p154\p154\p154.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "Debug\p154.unsuccessfulbuild"에 연결(touching)하고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt p154.cpp
+         p154.cpp
+     1>c:\users\82109\documents\visual studio 2010\projects\p154\p154\p154.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\82109\documents\visual studio 2010\projects\p154\p154\p154.cpp(14): error C2296: '&' : 왼쪽 피연산자 형식으로 'const char [4]'을(를) 사용할 수 없습니다.
+     1>c:\users\82109\documents\visual studio 2010\projects\p154\p154\p154.cpp(17): error C2144: 구문 오류 : double'은(는) ')' 다음에 와야 합니다.
+     1>c:\users\82109\documents\visual studio 2010\projects\p154\p154\p154.cpp(17): error C2064: 항은 0개의 인수를 받아들이는 함수로 계산되지 않습니다.
+     1>c:\users\82109\documents\visual studio 2010\projects\p154\p154\p154.cpp(17): error C2059: 구문 오류 : ')'
+     1>"c:\Users\82109\documents\visual studio 2010\Projects\p154\p154\p154.vcxproj" 프로젝트를 빌드했습니다(build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.36
